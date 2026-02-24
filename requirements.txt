@@ -1,0 +1,4 @@
+python-telegram-bot
+flask
+worker: python bot.py
+
